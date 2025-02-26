@@ -1,4 +1,5 @@
 ## Pull Requests Recentes
+- [#31](https://github.com/edvandersonLisboa/TesteWorkflow/pull/31) **Atualização da Issues** _(por @edvandersonLisboa, status: `closed`)_ <br> Informações da ISSUE:[]
 - [#30](https://github.com/edvandersonLisboa/TesteWorkflow/pull/30) **Update sync-prs.yml** _(por @edvandersonLisboa, status: `closed`)_ <br>
 - [#22](https://github.com/edvandersonLisboa/TesteWorkflow/pull/22) **[Atualização]** _(por @edvandersonLisboa, status: `closed`)_
 - [#]() **** _(por @, status: ``)_
